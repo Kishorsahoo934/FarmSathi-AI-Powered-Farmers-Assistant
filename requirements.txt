@@ -2,4 +2,13 @@ streamlit==1.24.0      # For creating the web interface
 pandas==1.5.3          # For data handling
 numpy==1.24.2          # For numerical operations
 scikit-learn==1.2.1    # For machine learning models
-matplotlib==3.7.1      # For data visualization 
+matplotlib==3.7.1      # For data visualization
+langchain==0.2.12
+langchain-core==0.2.24
+langchain-community==0.2.12
+langchain-text-splitters==0.2.2
+langgraph==0.0.60
+faiss-cpu==1.8.0
+google-generativeai==0.7.2
+python-dotenv==1.0.1
+typing-extensions>=4.5.0 
