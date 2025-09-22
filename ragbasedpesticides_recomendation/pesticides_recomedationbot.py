@@ -112,7 +112,7 @@ def build_graph():
 if __name__ == "__main__":
 
     pdf_files = [r"K:\farmsathichatbot\pesticides recomendation data.pdf"]  
-    web_urls = ["https://www.wikipedia.org/wiki/Artificial_intelligence"] 
+    web_urls = ["https://en.wikipedia.org/wiki/Pesticide"] 
 
     print("Loading and processing documents...")
     try:
